@@ -4,12 +4,6 @@ subtitle: >-
   Through partnerships and collaboration our solutions help extend the shelf
   life of food, bring color to buildings , and pave safer roads
 image: /img/home-cover.jpg
-blurb:
-  heading: Product Types & Catalog
-  text: >-
-    Dow provides a world-class portfolio of advanced, sustainable and
-    leading-edge products that enable use to deliver solutions designed to meet
-    almost any performance and business need
 intro:
   heading: What we offer
   text: >-
